@@ -11,6 +11,8 @@ const events = [];
 app.post('/events', (req, res) => {
   const event = req.body;
 
+  console.log('Received event: ', event.type);
+
   events.push(event);
 
   axios
