@@ -1,0 +1,12 @@
+Log created: 2021-11-23T22:06:23.722075000Z
+Process ID:  3756 (0xeac)
+Parent PID:  1798 (0x706)
+Executable:  /usr/lib/virtualbox/VBoxHeadless
+Arg[0]: /usr/lib/virtualbox/VBoxHeadless
+Arg[1]: --comment
+Arg[2]: minikube
+Arg[3]: --startvm
+Arg[4]: f9347b9b-4b12-4158-b3f8-b773eb2b2b03
+Arg[5]: --vrde
+Arg[6]: config
+AddRef: illegal refcnt=3221225469 state=2
